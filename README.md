@@ -6,11 +6,11 @@
 [![Fork this repo](https://badgen.net/github/forks/blank-yt/Awesome-Scroll-Back-To-Top-Button-With-Progress-Indicator)](https://github.com/blank-yt/Awesome-Scroll-Back-To-Top-Button-With-Progress-Indicator/fork/)
 [![Releases](https://img.shields.io/github/downloads/blank-yt/Awesome-Scroll-Back-To-Top-Button-With-Progress-Indicator/total.svg)](https://github.com/blank-yt/Awesome-Scroll-Back-To-Top-Button-With-Progress-Indicator/archive/refs/tags/Release.zip)
 
-Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/5840671a-9b91-4874-8f86-ecba4c90adb6/deploy-status)](https://lustrous-hotteok-629178.netlify.app/) [`(Test it out here)`](https://lustrous-hotteok-629178.netlify.app/)
+Status: [![success](https://user-images.githubusercontent.com/100468888/208658036-514215da-7838-44a9-8468-3a37e7e73b13.png)](https://blanksite.eu/preview/b861320dbdb6b2e374d5d90e8d6de82ed2abd4f0/) [`(Test it out here)`](https://blanksite.eu/preview/b861320dbdb6b2e374d5d90e8d6de82ed2abd4f0/)
 
 ## Getting Started
 - Either click `Code` (green button on the top of the repository) and then [`Download ZIP`](https://github.com/blank-yt/Awesome-Scroll-Back-To-Top-Button-With-Progress-Indicator/archive/refs/tags/Release.zip)
 - or [`Fork`](https://github.com/blank-yt/Awesome-Scroll-Back-To-Top-Button-With-Progress-Indicator/fork) it to your repository.
 
 ## Video
-[![Video](https://img.youtube.com/vi/NBNEgLapXu8/0.jpg)](https://www.youtube.com/watch?v=NBNEgLapXu8)
+<a href="https://www.youtube.com/watch?v=NBNEgLapXu8"><img src="https://img.youtube.com/vi/NBNEgLapXu8/maxresdefault.jpg" height="300" alt="Video not available yet"></a>
